@@ -13,8 +13,8 @@
     <main>
         <section id="game-list">
             <h2>Available Games</h2>
-            <ul id="games">
-                <!-- Game list will be populated here -->
+            <ul id="tsb">
+                <!--  -->
             </ul>
         </section>
         <section id="game-play" style="display: none;">
